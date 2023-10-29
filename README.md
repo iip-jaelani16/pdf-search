@@ -8,6 +8,8 @@ This is a simple js script to read multiple PDF files and extract the text from 
 
 ## How to use
 
+Fist, make sure you have installed [Node.js](https://nodejs.org/en/) in your machine.
+
 Start with the following command by cloning the repository:
 
 ```
